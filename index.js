@@ -9,6 +9,4 @@ if (numberOfArgs !== 1) {
   throw chalk.red("ERROR: wayz requires the name of the project as an argument");
 }
 
-// Run code.
-// module.exports = wayz ?
 wayz();
