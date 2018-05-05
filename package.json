@@ -1,0 +1,21 @@
+{
+  "name": "wayz",
+  "version": "1.0.9",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "command line"
+  ],
+  "author": "Kaycee Ingram",
+  "license": "MIT",
+  "bin": {
+    "wayz": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
