@@ -18,7 +18,7 @@ In your terminal, just type:
 ```
 > wayz appName
 ```
-After that, simply 'cd' into the new project directory, run yarn or npm install, and once it has finished installing everything, run npm start and go check it out at localhost:8080.
+After that, simply ```cd``` into the new project directory, run ```npm run setup```, and once it has finished installing everything, run ```npm start``` and go check it out at ```localhost:8080```.
 
 Have Fun!
 
